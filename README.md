@@ -79,6 +79,7 @@ Advanced SQL concepts used include:
 ## Tableau Dashboard
 
 An interactive Customer Intelligence dashboard was developed in Tableau.
+![alt text](<dasboard images/customer_rentention.png>)
 
 The dashboard includes:
 
